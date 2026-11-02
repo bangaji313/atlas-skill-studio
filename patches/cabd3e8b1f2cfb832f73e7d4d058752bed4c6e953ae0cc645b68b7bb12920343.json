@@ -1,0 +1,39 @@
+[
+  {
+    "start": 5,
+    "end": 5,
+    "lines": [
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 13,
+    "end": 14,
+    "lines": [
+      "**Context:** If working in an isolated worktree, it should have been created via the `atlas-engineering-tools:using-git-worktrees` skill at execution time.\n"
+    ]
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "lines": [
+      "> **For agentic workers:** REQUIRED SUB-SKILL: Use atlas-engineering-tools:subagent-driven-development (recommended) or atlas-engineering-tools:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.\n"
+    ]
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "lines": [
+      "- **REQUIRED SUB-SKILL:** Use atlas-engineering-tools:subagent-driven-development\n"
+    ]
+  },
+  {
+    "start": 203,
+    "end": 204,
+    "lines": [
+      "- **REQUIRED SUB-SKILL:** Use atlas-engineering-tools:executing-plans\n"
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+{
+  "repository": "https://github.com/calesthio/OpenMontage",
+  "commit": "195eab24478dc9363326aec437aefc3701635ddf",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "source_license": "https://github.com/calesthio/OpenMontage/blob/195eab24478dc9363326aec437aefc3701635ddf/LICENSE",
+  "integration_changes": [
+    "Added Windows entrypoint with installed-runtime and portable-source routing",
+    "Renamed supporting SKILL.md files to SKILL.reference.md and adjusted literal source references to avoid duplicate discovery",
+    "Quoted two invalid upstream description fields in native frontmatter; native guide content otherwise preserved",
+    "Excluded large alternate orchestration/duplicate packs from portable payload; complete original native source retained in local runtime"
+  ],
+  "skills": [
+    {
+      "name": "3d-asset-generation",
+      "path": "skills/3d-asset-generation/SKILL.md",
+      "upstream_path": ".agents/skills/3d-asset-generation/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "acestep",
+      "path": "skills/acestep/SKILL.md",
+      "upstream_path": ".agents/skills/acestep/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "azure-speech-to-text",
+      "path": "skills/azure-speech-to-text/SKILL.md",
+      "upstream_path": ".agents/skills/azure-speech-to-text/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "azure-text-to-speech",
+      "path": "skills/azure-text-to-speech/SKILL.md",
+      "upstream_path": ".agents/skills/azure-text-to-speech/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "canvas-procedural-animation",
+      "path": "skills/canvas-procedural-animation/SKILL.md",
+      "upstream_path": ".agents/skills/canvas-procedural-animation/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "character-animation-qa",
+      "path": "skills/character-animation-qa/SKILL.md",
+      "upstream_path": ".agents/skills/character-animation-qa/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "character-rigging",
+      "path": "skills/character-rigging/SKILL.md",
+      "upstream_path": ".agents/skills/character-rigging/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "comfyui",
+      "path": "skills/comfyui/SKILL.md",
+      "upstream_path": ".agents/skills/comfyui/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "ffmpeg",
+      "path": "skills/ffmpeg/SKILL.md",
+      "upstream_path": ".agents/skills/ffmpeg/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "framer-motion",
+      "path": "skills/framer-motion/SKILL.md",
+      "upstream_path": ".agents/skills/framer-motion/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "gsap-core",
+      "path": "skills/gsap-core/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-core/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-frameworks",
+      "path": "skills/gsap-frameworks/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-frameworks/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-performance",
+      "path": "skills/gsap-performance/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-performance/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-plugins",
+      "path": "skills/gsap-plugins/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-plugins/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-react",
+      "path": "skills/gsap-react/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-react/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-scrolltrigger",
+      "path": "skills/gsap-scrolltrigger/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-timeline",
+      "path": "skills/gsap-timeline/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-timeline/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "gsap-utils",
+      "path": "skills/gsap-utils/SKILL.md",
+      "upstream_path": ".agents/skills/gsap-utils/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "lottie-bodymovin",
+      "path": "skills/lottie-bodymovin/SKILL.md",
+      "upstream_path": ".agents/skills/lottie-bodymovin/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "manim-composer",
+      "path": "skills/manim-composer/SKILL.md",
+      "upstream_path": ".agents/skills/manim-composer/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "manimce-best-practices",
+      "path": "skills/manimce-best-practices/SKILL.md",
+      "upstream_path": ".agents/skills/manimce-best-practices/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "openmontage",
+      "path": "skills/openmontage/SKILL.md",
+      "upstream_path": null,
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "pose-library-design",
+      "path": "skills/pose-library-design/SKILL.md",
+      "upstream_path": ".agents/skills/pose-library-design/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "svg-character-animation",
+      "path": "skills/svg-character-animation/SKILL.md",
+      "upstream_path": ".agents/skills/svg-character-animation/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "synthetic-screen-recording",
+      "path": "skills/synthetic-screen-recording/SKILL.md",
+      "upstream_path": ".agents/skills/synthetic-screen-recording/SKILL.md",
+      "license_declared": "MIT"
+    },
+    {
+      "name": "threejs-animation",
+      "path": "skills/threejs-animation/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-animation/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-fundamentals",
+      "path": "skills/threejs-fundamentals/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-fundamentals/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-geometry",
+      "path": "skills/threejs-geometry/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-geometry/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-interaction",
+      "path": "skills/threejs-interaction/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-interaction/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-lighting",
+      "path": "skills/threejs-lighting/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-lighting/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-loaders",
+      "path": "skills/threejs-loaders/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-loaders/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-materials",
+      "path": "skills/threejs-materials/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-materials/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-postprocessing",
+      "path": "skills/threejs-postprocessing/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-postprocessing/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-shaders",
+      "path": "skills/threejs-shaders/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-shaders/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-textures",
+      "path": "skills/threejs-textures/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-textures/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "threejs-world-generation",
+      "path": "skills/threejs-world-generation/SKILL.md",
+      "upstream_path": ".agents/skills/threejs-world-generation/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "video-download",
+      "path": "skills/video-download/SKILL.md",
+      "upstream_path": ".agents/skills/video-download/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "video-edit",
+      "path": "skills/video-edit/SKILL.md",
+      "upstream_path": ".agents/skills/video-edit/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    },
+    {
+      "name": "visual-style",
+      "path": "skills/visual-style/SKILL.md",
+      "upstream_path": ".agents/skills/visual-style/SKILL.md",
+      "license_declared": "No separate declaration in skill frontmatter; preserve repository LICENSE and any bundled notices"
+    }
+  ]
+}

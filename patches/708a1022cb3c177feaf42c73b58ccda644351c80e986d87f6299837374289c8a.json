@@ -1,0 +1,18 @@
+[
+  {
+    "start": 5,
+    "end": 5,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "lines": [
+      "- **Carve-out**: documentation of this rule is exempt: the numbered section headings in this file (`R-XX — Title` rules and `C-1` to `C-5` principles), the em dash example in Part 1, the rule's own definition, any Delivery Gate item that quotes it, and the `Em Dashes` section in the copywriting skill (`atlas-growth-social:antislop-copywriting`). These are documentation structure, not UI text.\n"
+    ]
+  }
+]

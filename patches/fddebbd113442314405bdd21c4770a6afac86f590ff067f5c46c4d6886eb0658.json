@@ -1,0 +1,16 @@
+[
+  {
+    "start": 49,
+    "end": 50,
+    "lines": [
+      "See `../../references/examples.md` for worked examples.\n"
+    ]
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "lines": [
+      "- `../../references/classification-rules.md` — feature extraction + scoring heuristics\n"
+    ]
+  }
+]

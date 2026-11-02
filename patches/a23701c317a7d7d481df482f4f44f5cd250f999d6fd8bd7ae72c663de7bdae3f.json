@@ -1,0 +1,25 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "lines": [
+      "## Codex tools in Atlas\n"
+    ]
+  },
+  {
+    "start": 2,
+    "end": 79,
+    "lines": [
+      "Use the current tool list and [Atlas host compatibility](../../../FRAMEWORK-RUNTIME.md)\n",
+      "as the authority. Skill instructions do not install or enable multi-agent tools.\n",
+      "Use the available spawn, follow-up, messaging and waiting tools only when the\n",
+      "task authorizes delegation. A standalone skill never changes Codex settings.\n",
+      "Inherit the parent's model and effort by default. If an explicit user request\n",
+      "or applicable instruction selects another model, use a permitted isolated fork\n",
+      "and the exact arguments accepted by the current tool. Full-history forks may\n",
+      "reject overrides. Do not invent a missing tool or a supported model name.\n",
+      "Keep working while children run. When idle, use a bounded wait that respects\n",
+      "the host's communication cadence; report meaningful progress to the user.\n"
+    ]
+  }
+]

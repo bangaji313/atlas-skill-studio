@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "atlas-growth-social",
+  "version": "1.3.0",
+  "description": "Audience research, positioning, SEO, campaigns and social content.",
+  "author": {
+    "name": "bangaji313",
+    "url": "https://github.com/bangaji313"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Atlas Growth & Social",
+        "shortDescription": "Marketing & social research",
+        "longDescription": "Research audiences and competitors, develop growth and SEO strategies, plan campaigns, and create or refine persuasive brand and social content. This curated collection combines community-developed skills from popular GitHub projects and selected specialist repositories. It is not an official product or endorsement of the original maintainers. Upstream licenses apply; some workflows require local runtimes, configured accounts, API keys or paid services.",
+        "developerName": "Atlas Skill Studio",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Help me plan marketing, write LinkedIn content, or research social audiences.",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/composer-icon.png",
+        "logoDark": "./assets/logo.png",
+        "composerIconDark": "./assets/composer-icon.png",
+        "brandColor": "#132C3A",
+        "brandColorDark": "#65C0AA"
+      }
+    }
+  }
+}

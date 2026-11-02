@@ -1,0 +1,11 @@
+[
+  {
+    "start": 116,
+    "end": 119,
+    "lines": [
+      "- `../../references/advocacy-principles.md` — the 4 operating principles with examples\n",
+      "- `../../references/team-cadence-matrix.md` — realistic cadence by role + seniority\n",
+      "- `../../references/governance-playbook.md` — what to review, what not to, SLA\n"
+    ]
+  }
+]

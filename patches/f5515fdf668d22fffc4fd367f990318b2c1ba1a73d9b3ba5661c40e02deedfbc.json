@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Receiving Code Review\"\n",
+      "  short_description: \"Evaluate review feedback before implementing changes\"\n"
+    ]
+  }
+]

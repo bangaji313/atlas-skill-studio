@@ -1,0 +1,10 @@
+[
+  {
+    "start": 15,
+    "end": 15,
+    "lines": [
+      "\n",
+      "Atlas portability note: downloaded engine caches are not part of this plugin. Resolve the packaged launcher from this skill directory, use `scripts/impeccable.cmd` on Windows, and verify the upstream engine download before use. Follow the launcher-unavailable fallback if setup fails.\n"
+    ]
+  }
+]

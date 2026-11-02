@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Brainstorming\"\n",
+      "  short_description: \"Explore intent, requirements, and design before implementation\"\n"
+    ]
+  }
+]

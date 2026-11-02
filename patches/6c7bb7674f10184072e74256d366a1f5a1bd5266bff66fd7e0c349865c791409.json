@@ -1,0 +1,25 @@
+[
+  {
+    "start": 5,
+    "end": 5,
+    "lines": [
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 17,
+    "end": 18,
+    "lines": [
+      "**REQUIRED BACKGROUND:** You MUST understand atlas-engineering-tools:test-driven-development before using this skill. That skill defines the fundamental RED-GREEN-REFACTOR cycle. This skill adapts TDD to documentation.\n"
+    ]
+  },
+  {
+    "start": 181,
+    "end": 182,
+    "lines": [
+      "**REQUIRED BACKGROUND:** The atlas-engineering-tools:test-driven-development skill explains why this matters. Same principles apply to documentation.\n"
+    ]
+  }
+]

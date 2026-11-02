@@ -1,0 +1,16 @@
+[
+  {
+    "start": 12,
+    "end": 14,
+    "lines": [
+      "  model: [OPTIONAL — inherit by default; set only when explicitly authorized]\n"
+    ]
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "lines": [
+      "- `[MODEL]` — optional, explicitly authorized reviewer model per SKILL.md Model Selection\n"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "start": 14,
+    "end": 21,
+    "lines": [
+      "| SVG logo morph between two shapes | GSAP MorphSVG — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Line drawing / stroke reveal on SVG | GSAP DrawSVG — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Object following a curved path | GSAP MotionPath — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Per-character / per-word title reveals | GSAP SplitText — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Custom bezier or elastic easing | GSAP CustomEase — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Layout-to-layout element flight (FLIP) | GSAP Flip — read `.agents/skills/gsap-plugins/SKILL.reference.md` |\n",
+      "| Multi-step sequence across many elements | GSAP timeline — read `.agents/skills/gsap-timeline/SKILL.reference.md` |\n"
+    ]
+  },
+  {
+    "start": 25,
+    "end": 26,
+    "lines": [
+      "**Remotion determinism rule:** every GSAP use inside a Remotion component must drive timeline progress from `useCurrentFrame()` — never `requestAnimationFrame`. Pattern examples in `.agents/skills/gsap-react/SKILL.reference.md`.\n"
+    ]
+  }
+]

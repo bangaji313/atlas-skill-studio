@@ -1,0 +1,11 @@
+[
+  {
+    "start": 11,
+    "end": 11,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  }
+]

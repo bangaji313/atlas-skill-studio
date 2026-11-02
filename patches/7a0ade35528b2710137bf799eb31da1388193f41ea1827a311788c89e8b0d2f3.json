@@ -1,0 +1,16 @@
+[
+  {
+    "start": 11,
+    "end": 12,
+    "lines": [
+      "atlas-engineering-tools:subagent-driven-development run: it reads every dispatch\n"
+    ]
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "lines": [
+      "use atlas-engineering-tools:subagent-driven-development end to end. The orchestrator\n"
+    ]
+  }
+]

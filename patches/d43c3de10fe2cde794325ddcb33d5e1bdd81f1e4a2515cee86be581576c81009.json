@@ -1,0 +1,19 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 29,
+    "end": 31,
+    "lines": [
+      "- \"Let's build X\" → atlas-engineering-tools:brainstorming first, then implementation skills.\n",
+      "- \"Fix this bug\" → atlas-engineering-tools:systematic-debugging first, then domain skills.\n"
+    ]
+  }
+]

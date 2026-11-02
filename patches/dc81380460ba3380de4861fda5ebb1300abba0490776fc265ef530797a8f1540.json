@@ -1,0 +1,158 @@
+[
+  {
+    "start": 17,
+    "end": 18,
+    "lines": []
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "lines": []
+  },
+  {
+    "start": 57,
+    "end": 68,
+    "lines": [
+      "| Dual-Sword Warrior — TypeScript procedural surfaces ⚠︎ | character | `v1.5.1` | [Live](https://img2threejs.io/#/demo/girl-character) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/girl-character/createGirlCharacterModel.ts) |\n",
+      "| Low-Poly Humanoid — Rigged Character ⚠︎ | character | `v1.5.0` | [Live](https://img2threejs.io/#/demo/low-poly-humanoid) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/low-poly-humanoid/createLowPolyHumanoidModel.ts) |\n"
+    ]
+  },
+  {
+    "start": 69,
+    "end": 75,
+    "lines": [
+      "| AWP \\| Medusa (Minimal Wear) · V2 rebuild | object | `V2` | [Live](https://img2threejs.io/#/demo/awp-medusa-v2) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/awp-medusa-v2/createAwpMedusaModelV2.ts) |\n",
+      "| Pikachu 10K Star Celebration ⚠︎ | character | `v1.5-beta` | [Live](https://img2threejs.io/#/demo/electric-mouse-mascot) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/electric-mouse-mascot/createElectricMouseMascotModel.ts) |\n",
+      "| Glock-18 \\| Ghost Protocol (Well-Worn) | object | `v1.4.1` | [Live](https://img2threejs.io/#/demo/glock-ghost-protocol) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/glock-ghost-protocol/createGlockGhostProtocolModel.ts) |\n",
+      "| Classic Knife \\| Fade (Minimal Wear) | object | `v1.3` | [Live](https://img2threejs.io/#/demo/classic-fade) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/classic-fade/createClassicFadeModel.ts) |\n",
+      "| BMX Endurance Bike | object | `v1.3` | [Live](https://img2threejs.io/#/demo/bmx-endurance) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/bmx-endurance/createBmxEnduranceBikeModel.ts) |\n",
+      "| M9 Bayonet \\| Doppler Phase 2 | object | `v1.3` | [Live](https://img2threejs.io/#/demo/m9-doppler) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/m9-doppler/createM9DopplerModel.ts) |\n",
+      "| Sony WF-1000XM3 Earbuds + Case | object | `v1.2` | [Live](https://img2threejs.io/#/demo/sony-wf1000xm3) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/sony-wf1000xm3/createSonyWf1000xm3Model.ts) |\n",
+      "| ISSACA 12 Gauge Shotgun | object | `v1.2` | [Live](https://img2threejs.io/#/demo/issaca-shotgun) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/issaca-shotgun/createIssacaShotgunModel.ts) |\n",
+      "| Gerber Paracord Knife | object | `v1.2` | [Live](https://img2threejs.io/#/demo/gerber-knife) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/gerber-knife/createGerberKnifeModel.ts) |\n",
+      "| Doraemon House (isometric diorama) | object | `v1.2` | [Live](https://img2threejs.io/#/demo/doraemon-house) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/doraemon-house/createDoraemonHouseModel.ts) |\n",
+      "| War-Hauler \"SECTOR 07\" | object | `v1.2` | [Live](https://img2threejs.io/#/demo/warhauler) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/warhauler/createWarHaulerModel.ts) |\n",
+      "| Crowned Loot Chest ⚠︎ | object | `v1.2` | [Live](https://img2threejs.io/#/demo/crown-chest) | [code](https://github.com/img2threejs/img2threejs-showcase/blob/main/src/demos/crown-chest/createCrownChestModel.ts) |\n",
+      "\n",
+      "⚠︎ marks a demo whose registry `status` is still `placeholder` rather than `final` — it renders, but it\n",
+      "is not finished work. The **Built with** column is the version each demo's own registry entry records in\n",
+      "`generatedWith`, not an inference from dates; `awp-medusa-v2` records `V2`, which is that demo's rebuild\n",
+      "pass rather than a release number. Rows are ordered newest first by the commit that added the demo.\n"
+    ]
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "lines": [
+      "It runs under Claude Code, Codex, or OpenCode. It is agent-agnostic: wherever the docs say \"agent vision\" or \"agent browser tool\", it uses whatever the host provides — native image reading, a browser MCP, the project preview, or a user-supplied screenshot.\n"
+    ]
+  },
+  {
+    "start": 101,
+    "end": 101,
+    "lines": [
+      "A staged sculpting pipeline turns the reference image into a spec, then generates and vision-reviews one build pass at a time — `blockout → structural → form → material → surface → lighting → interaction → optimization` — self-correcting until every identity-defining feature clears its threshold.\n",
+      "\n",
+      "**→ Full pipeline diagram, gates, self-correction logic, and the token-efficiency design: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**\n"
+    ]
+  },
+  {
+    "start": 109,
+    "end": 230,
+    "lines": [
+      "1. **Install** — place this folder in your skills directory:\n",
+      "\n",
+      "   ```bash\n",
+      "   git clone https://github.com/img2threejs/img2threejs.git ~/.claude/skills/img2threejs\n",
+      "   ```\n",
+      "\n",
+      "   If you use more than one host, keep a single checkout and point each entrypoint at it as a\n",
+      "   symlink, so they cannot drift apart:\n",
+      "\n",
+      "   ```text\n",
+      "   ~/.claude/skills/img2threejs -> <your checkout>\n",
+      "   ~/.codex/skills/img2threejs  -> <your checkout>\n",
+      "   ```\n",
+      "\n",
+      "2. **Add domain plugins (optional)** — domain knowledge (CS2 skins today) lives in installed\n",
+      "   plugins, not in this checkout. Install the [img2 harness](https://github.com/img2threejs/img2)\n",
+      "   once, then add plugins to it:\n",
+      "\n",
+      "   ```bash\n",
+      "   npx github:img2threejs/img2 install   # ~/.img2, the plugin registry, and an `img2` launcher\n",
+      "   img2 add img2threejs/plugin-cs2       # clone @ newest tag, pin SHA, link host skills\n",
+      "   img2 doctor                           # fail-loud static audit of every installed plugin\n",
+      "   ```\n",
+      "\n",
+      "   An installed domain plugin contributes its own checklist steps, evidence collection, spec\n",
+      "   augmentation (quality floors merge raise-only), and a blocking review gate — and registers its\n",
+      "   profile with `forge/state.py init --profile <id>`. With no plugins installed, `generic`,\n",
+      "   and `character` are available; a profile whose plugin is missing (`cs2`, `animated-character`) fails\n",
+      "   loud naming what is installed, never silently downgrades. `img2 remove <id>` reverses cleanly.\n",
+      "   Writing your own plugin: the harness repo's `docs/WRITING_A_PLUGIN.md`.\n",
+      "\n",
+      "3. **Invoke** — in Claude Code, attach or point to an object image and run:\n",
+      "\n",
+      "   ```\n",
+      "   /img2threejs Rebuild this object as a Three.js model, keep the proportions, angles, and colours.\n",
+      "   ```\n",
+      "\n",
+      "   That is enough: the skill classifies the subject, runs the detail inventory, and gates every pass on its own.\n",
+      "\n",
+      "4. **Follow the pipeline** — the skill validates the image, writes an assessment and spec, generates the factory pass by pass, and shows you a side-by-side comparison at each step until the render matches.\n",
+      "\n",
+      "   For a multi-session reconstruction, create a local state index first:\n",
+      "\n",
+      "   ```bash\n",
+      "   python3 forge/state.py init --reference <image> --profile character --spec object-sculpt-spec.json\n",
+      "   python3 forge/next.py --state .img2threejs/state.json\n",
+      "   ```\n"
+    ]
+  },
+  {
+    "start": 397,
+    "end": 398,
+    "lines": []
+  },
+  {
+    "start": 403,
+    "end": 403,
+    "lines": [
+      "- **v1.5 — The Character Update** — a skeleton derived from the component tree and bound to `SkinnedMesh` geometry, geodesic skinning, hair as a five-stage subsystem with a hard scalp-exposure gate, chirality gates, interior-difference review, the `tapered-sweep` primitive, the material pipeline with a blocking acceptance gate, and resumable workflow state. Not included: the `hairProfile` compiler, IK, pose-sweep gating, clothing.\n"
+    ]
+  },
+  {
+    "start": 405,
+    "end": 410,
+    "lines": [
+      "- **v2.1 — The Environment Update**: buildings, rooms, streets, vegetation, terrain-aware and multi-object reconstruction.\n",
+      "- **v2.2 — The Game Pipeline Update**: Unity and Unreal exporters, a Blender bridge, LOD and collision-mesh generation.\n",
+      "- **v2.3 — The Animation Update**: auto rigging, auto skin weights, Mixamo compatibility, facial rig.\n",
+      "- **v2.4 — The AI Studio Update**: web UI, batch processing, visual prompt builder, cloud rendering.\n"
+    ]
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "lines": [
+      "The arc: assets (v1.4–v1.5) → the plugin ecosystem (v2.0) → worlds (v2.1–v2.2) → production (v2.3–v2.4) → an AI game-asset platform that generates playable worlds from reference images (v3.0).\n"
+    ]
+  },
+  {
+    "start": 451,
+    "end": 452,
+    "lines": [
+      "render-vs-reference pass and every material fit spends tokens. These three pay for that loop.\n"
+    ]
+  },
+  {
+    "start": 455,
+    "end": 466,
+    "lines": []
+  },
+  {
+    "start": 502,
+    "end": 508,
+    "lines": []
+  }
+]

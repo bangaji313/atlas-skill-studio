@@ -1,0 +1,11 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "> Local Windows environment override (checked 2026-11-02): KiCad 10.0.7 is installed for the current user at `%LOCALAPPDATA%/Programs/KiCad/10.0`. Its `bin/kicad-cli.exe` and `bin/python.exe` (with pcbnew 10.0.7) were exercised successfully. In PowerShell, resolve `$kiBin = Join-Path $env:LOCALAPPDATA 'Programs/KiCad/10.0/bin'` and invoke those executables with `&`. Resolve skill scripts against this loaded skill's absolute directory. Stock libraries are under the installation's `share/kicad`. The WSL/10.0.5 environment statements and `source .../env.sh` examples below describe the upstream author's setup; WSL was not configured here. On another device or cloud runtime, probe dependencies before assuming they exist.\n",
+      "\n"
+    ]
+  }
+]

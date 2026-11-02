@@ -1,0 +1,41 @@
+[
+  {
+    "start": 53,
+    "end": 54,
+    "lines": [
+      "4. **Draft the reply.** Follow the engagement templates in `../../references/reply-templates.md`. If the counterpart asked a question, answer it directly. If they pushed back, concede then sharpen.\n"
+    ]
+  },
+  {
+    "start": 65,
+    "end": 67,
+    "lines": [
+      "4. **Filter out low-value comments.** Drop anything matching `../../references/filtering-rules.md`: plain \"thanks for sharing\" / generic praise with no content, duplicate or near-duplicate text already filtered elsewhere in the thread, spam or engagement-bait patterns, and comments from the user's own account (don't reply to yourself). Report the drop count and a one-line reason per category — don't silently discard.\n",
+      "5. **Draft each remaining reply.** For every surviving queue entry, follow the same `../../references/reply-templates.md` templates as single-comment mode (R1 Answer-Their-Question, R2 Concede-Then-Sharpen, R3 Extend-Their-Thesis, R4 Share-Lived-Experience, R5 Ask-Back). Read the surrounding thread (the top-level comment plus any prior replies) for context before drafting a reply to a nested reply.\n"
+    ]
+  },
+  {
+    "start": 99,
+    "end": 100,
+    "lines": [
+      "## Templates (`../../references/reply-templates.md`)\n"
+    ]
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "lines": [
+      "See `../../references/examples.md` for the single-comment worked example and a whole-thread sweep example.\n"
+    ]
+  },
+  {
+    "start": 150,
+    "end": 154,
+    "lines": [
+      "- `../../references/reply-templates.md` — 5 reply templates with examples\n",
+      "- `../../references/threading-rules.md` — LinkedIn's 2-level flattening explained with edge cases\n",
+      "- `../../references/filtering-rules.md` — low-value comment patterns to drop before drafting a whole-thread sweep (generic praise, spam, duplicates, self-comments)\n",
+      "- `../../references/examples.md` — worked examples for both modes\n"
+    ]
+  }
+]

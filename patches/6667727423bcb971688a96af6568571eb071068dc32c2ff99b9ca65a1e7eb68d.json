@@ -1,0 +1,44 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "lines": [
+      "    \"Use atlas-engineering-tools:finishing-a-development-branch\" [shape=box style=filled fillcolor=lightgreen];\n"
+    ]
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "lines": [
+      "    \"Final review clean: delete this plan's workspace\" -> \"Use atlas-engineering-tools:finishing-a-development-branch\";\n"
+    ]
+  },
+  {
+    "start": 103,
+    "end": 104,
+    "lines": [
+      "atlas-engineering-tools:using-git-worktrees to create one or verify the existing one.\n"
+    ]
+  },
+  {
+    "start": 140,
+    "end": 174,
+    "lines": [
+      "Inherit the parent model and reasoning effort by default. Select an override\n",
+      "only when the user or applicable instructions explicitly authorize it and the\n",
+      "current host accepts it. Match authorized tiers to the task's complexity; use\n",
+      "the actual tool schema and allowlist. Never change global agent configuration\n",
+      "as a prerequisite. Follow [Codex tools](../using-superpowers/references/codex-tools.md)\n",
+      "for host restrictions. The prompt templates' model field is optional.\n"
+    ]
+  }
+]

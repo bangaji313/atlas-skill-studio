@@ -1,0 +1,9 @@
+[
+  {
+    "start": 12,
+    "end": 13,
+    "lines": [
+      "  2. Read `.agents/skills/hyperframes/SKILL.reference.md` and `.agents/skills/hyperframes-cli/SKILL.reference.md` for authoring contract and CLI usage.\n"
+    ]
+  }
+]

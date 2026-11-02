@@ -1,0 +1,18 @@
+[
+  {
+    "start": 7,
+    "end": 7,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 19,
+    "end": 20,
+    "lines": [
+      "Source: [published benchmark](benchmark-2026-10-07.md) and the [upstream README](https://github.com/DietrichGebert/ponytail/blob/96608e078b2d5ea607c5c3b8b5a54d1c1fba6846/README.md).\n"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "start": 7,
+    "end": 10,
+    "lines": [
+      "Scripts referred to below live in three skills: `$VD` = `~/.codex/skills/video-director/scripts` (review, QA, masters),\n",
+      "`$SD` = `~/.codex/skills/sound-design/scripts` (music, foley, mix, loudness), `$VOICE` =\n",
+      "`~/.codex/skills/voice-direction/scripts` (record, gate and build voiceover). Run everything from this folder.\n"
+    ]
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "lines": [
+      "cp -R ~/.codex/skills/video-director/assets/project-template <product-repo>/video\n"
+    ]
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "lines": [
+      "cp ~/.codex/skills/video-director/assets/CREATIVE.template.md CREATIVE.md   # brief to decision log\n"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "start": 6,
+    "end": 6,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 33,
+    "end": 35,
+    "lines": [
+      "In Codex CLI and the IDE extension, invoke skills with `$atlas-engineering-tools:ponytail`,\n",
+      "`$atlas-engineering-tools:ponytail-review`, or `$atlas-engineering-tools:ponytail-help`. Claude Code and OpenCode use the\n"
+    ]
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "lines": [
+      "## Native plugin features and updates\n"
+    ]
+  },
+  {
+    "start": 44,
+    "end": 72,
+    "lines": [
+      "This Atlas copy contains the six skills only. The prompt band, configuration\n",
+      "file, auto-activation, session import and upstream marketplace update commands\n",
+      "require the separate native Ponytail plugin. Invoke the Atlas skill to activate\n",
+      "its conversational mode in the current chat. Updating the native plugin does\n",
+      "not update this pinned Atlas copy; use the Atlas package update flow.\n"
+    ]
+  }
+]

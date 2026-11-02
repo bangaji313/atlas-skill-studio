@@ -1,0 +1,11 @@
+[
+  {
+    "start": 6,
+    "end": 6,
+    "lines": [
+      "\n",
+      "> Atlas distribution: this mixed plugin pins the HyperFrames CLI to 0.8.228, independently of Atlas's own version. Use `npx --yes hyperframes@0.8.228 <command>` (or the verified installed CLI of that version), with HYPERFRAMES_SKIP_SKILLS=1 set in the process environment. Do not run standalone skill-refresh commands or the HyperFrames-only plugin-cli.mjs wrapper against the Atlas manifest. Resolve sibling skills from this bundle. On another host, verify local runtimes before assuming they are installed.\n",
+      "\n"
+    ]
+  }
+]

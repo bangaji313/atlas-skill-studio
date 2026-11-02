@@ -1,0 +1,16 @@
+[
+  {
+    "start": 25,
+    "end": 26,
+    "lines": [
+      "Output format (engager roster, tier breakdown, action lists): see `../../references/output-spec.md`. Headline: a table of engagers labelled by ICP tier and a per-tier action list.\n"
+    ]
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "lines": [
+      "- `../../references/output-spec.md` — engager roster shape, tier breakdown, action lists, sample run\n"
+    ]
+  }
+]

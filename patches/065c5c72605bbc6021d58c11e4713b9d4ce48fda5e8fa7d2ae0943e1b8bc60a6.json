@@ -1,0 +1,54 @@
+[
+  {
+    "start": 2,
+    "end": 3,
+    "lines": [
+      "description: \"Director-level video production for any product, built in Remotion. Plans and makes launch and promo films, explainers, product demos, motion graphics over talking-head footage, captions and b-roll, long-to-short social cuts (Reels, Shorts, TikTok, LinkedIn), logo stings and music-driven montages, owning the whole pipeline from brief and storyboard through motion design, footage editing, QA, render and delivery, and orchestrating the scriptwriting, voice-direction, imagegen and sound-design skills at its gates. Loads the official Remotion skills for the API, so calling this skill brings everything in. Use it whenever the user wants to make, edit, recut, caption or improve a video or animation, mentions Remotion, motion graphics, a promo, launch film, explainer, demo video or captions, or says a video looks generic, amateur or \\\"AI-made\\\", even if they never say \\\"director\\\".\"\n"
+    ]
+  },
+  {
+    "start": 15,
+    "end": 16,
+    "lines": [
+      "| `imagegen` | illustrations, characters, plates, keyframes, cutouts, image review | G3 and G4 (assets) |\n"
+    ]
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "lines": [
+      "     directory installed next to it (usually `~/.codex/skills/`).\n"
+    ]
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "lines": [
+      "| G3 | Style frames | Four stills (or one per beat) with real copy, fonts and colours, reviewed against the brand; generated assets locked through `imagegen` (style suffix, cast sheet). The build dresses this layout; it never redraws it |\n"
+    ]
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "lines": [
+      "**Paths:** scripts live in this skill's `scripts/` folder, under the base directory shown when the skill loads (`~/.codex/skills/video-director/` for a standard install; a plugin install puts it elsewhere). The other skills of this suite sit next to it as sibling folders. Paths written as `~/.codex/skills/...` below assume the standard install.\n"
+    ]
+  },
+  {
+    "start": 161,
+    "end": 162,
+    "lines": [
+      "`~/.codex/skills/video-director/scripts/`; full flags in `scripts/README.md`. Voice, image and sound scripts live in their\n"
+    ]
+  },
+  {
+    "start": 199,
+    "end": 199,
+    "lines": [
+      "\n",
+      "## Atlas installation note\n",
+      "\n",
+      "The existing `imagegen` skill owns image generation. The upstream image direction guidance is preserved at [references/image-generation/GUIDE.md](references/image-generation/GUIDE.md) without registering a duplicate skill. Use available Codex tools; Claude-specific Skill tool examples are conceptual routing instructions.\n"
+    ]
+  }
+]

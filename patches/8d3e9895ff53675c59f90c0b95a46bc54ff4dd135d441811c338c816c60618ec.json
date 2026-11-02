@@ -1,0 +1,25 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "lines": [
+      "   - Use the `atlas-engineering-tools:test-driven-development` skill for writing proper failing tests\n"
+    ]
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "lines": [
+      "   - Use the `atlas-engineering-tools:verification-before-completion` skill before claiming success\n"
+    ]
+  }
+]

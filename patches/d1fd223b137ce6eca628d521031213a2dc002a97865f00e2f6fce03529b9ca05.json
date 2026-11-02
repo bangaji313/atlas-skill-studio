@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Test-Driven Development\"\n",
+      "  short_description: \"Implement features and bug fixes with test-first development\"\n"
+    ]
+  }
+]

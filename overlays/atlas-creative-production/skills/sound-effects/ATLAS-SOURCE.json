@@ -1,0 +1,10 @@
+{
+  "repository": "elevenlabs/skills",
+  "commit": "503d4e9fda0190ab9357142f44e51de626f97f90",
+  "license": "MIT",
+  "upstream_path": "sound-effects",
+  "local_changes": [
+    "Quoted the upstream description for portable YAML parsing."
+  ],
+  "verification": "See hypit-audio-result.json in the installation report; no paid provider requests were made."
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "start": 13,
+    "end": 14,
+    "lines": [
+      "| **`synthetic_terminal`** | CLI, terminal, install flow, make targets, git/npm commands, `.env` config — anything scriptable | **No capture at all.** Author a `terminal_scene` cut for `video_compose` (Remotion). Commands type char-by-char, output scrolls, pills announce completions. See `.agents/skills/synthetic-screen-recording/SKILL.reference.md`. |\n"
+    ]
+  }
+]

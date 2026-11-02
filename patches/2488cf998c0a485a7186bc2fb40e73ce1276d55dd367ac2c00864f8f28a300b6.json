@@ -1,0 +1,16 @@
+[
+  {
+    "start": 64,
+    "end": 65,
+    "lines": [
+      "   `bash ~/.codex/skills/video-director/scripts/strip.sh <Comp> <start_s> <end_s> out/<AGENT_NAME>/strip.png --fps <fps>`\n"
+    ]
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "lines": [
+      "   `uv run ~/.codex/skills/video-director/scripts/stills.py <Comp> out/<AGENT_NAME>/sheet.png <t1> <t2> ... --fps <fps>`\n"
+    ]
+  }
+]

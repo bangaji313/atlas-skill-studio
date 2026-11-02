@@ -1,0 +1,11 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "> Windows installation: SkillSpector 2.12.0 is installed locally. Its `--output` option is unsupported on this Windows release. Capture JSON stdout from `skillspector scan <target> --no-llm --format json`, validate it, and save a new report outside the scanned directory. On other hosts, verify the CLI first.\n",
+      "\n"
+    ]
+  }
+]

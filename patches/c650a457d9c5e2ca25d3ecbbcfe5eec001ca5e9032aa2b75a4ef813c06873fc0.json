@@ -1,0 +1,16 @@
+[
+  {
+    "start": 104,
+    "end": 105,
+    "lines": [
+      "const SUPERPOWERS_VERSION = '7.0.1';\n"
+    ]
+  },
+  {
+    "start": 111,
+    "end": 112,
+    "lines": [
+      "const SUPERPOWERS_TELEMETRY_DISABLED = true; // Atlas packaging keeps the companion local.\n"
+    ]
+  }
+]

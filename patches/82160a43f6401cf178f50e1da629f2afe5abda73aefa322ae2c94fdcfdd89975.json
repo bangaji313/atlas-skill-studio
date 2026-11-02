@@ -1,0 +1,9 @@
+[
+  {
+    "start": 12,
+    "end": 13,
+    "lines": [
+      "See the [main agents skill](../SKILL.reference.md#outbound-calls) for basic Python, JavaScript, and cURL examples.\n"
+    ]
+  }
+]

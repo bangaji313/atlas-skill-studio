@@ -1,0 +1,102 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "lines": [
+      "- You have a plan from atlas-engineering-tools:writing-plans and your human partner\n"
+    ]
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "lines": [
+      "  atlas-engineering-tools:subagent-driven-development.\n"
+    ]
+  },
+  {
+    "start": 59,
+    "end": 60,
+    "lines": [
+      "Prefer atlas-engineering-tools:subagent-driven-development when your human partner\n"
+    ]
+  },
+  {
+    "start": 87,
+    "end": 88,
+    "lines": [
+      "    \"Use atlas-engineering-tools:finishing-a-development-branch\" [shape=box style=filled fillcolor=lightgreen];\n"
+    ]
+  },
+  {
+    "start": 103,
+    "end": 104,
+    "lines": [
+      "    \"Final review clean: delete this plan's workspace\" -> \"Use atlas-engineering-tools:finishing-a-development-branch\";\n"
+    ]
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "lines": [
+      "atlas-engineering-tools:using-git-worktrees to create one or verify the existing one.\n"
+    ]
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "lines": [
+      "The workspace and ledger are shared with atlas-engineering-tools:subagent-driven-development\n"
+    ]
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "lines": [
+      "**REQUIRED SUB-SKILL:** load atlas-engineering-tools:test-driven-development now,\n"
+    ]
+  },
+  {
+    "start": 185,
+    "end": 186,
+    "lines": [
+      "order under atlas-engineering-tools:test-driven-development, loaded at setup. A test\n"
+    ]
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "lines": [
+      "- **The code is wrong.** Use atlas-engineering-tools:systematic-debugging. Find the\n"
+    ]
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "lines": [
+      "**REQUIRED SUB-SKILL:** atlas-engineering-tools:verification-before-completion governs\n"
+    ]
+  },
+  {
+    "start": 241,
+    "end": 242,
+    "lines": [
+      "atlas-engineering-tools:requesting-code-review's\n"
+    ]
+  },
+  {
+    "start": 303,
+    "end": 304,
+    "lines": [
+      "Use atlas-engineering-tools:finishing-a-development-branch.\n"
+    ]
+  }
+]

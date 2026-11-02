@@ -1,0 +1,9 @@
+[
+  {
+    "start": 12,
+    "end": 13,
+    "lines": [
+      "- **`render_runtime=\"hyperframes\"`** — HTML/CSS/GSAP render. Do NOT follow the Remotion-specific steps below. Instead: read `skills/core/hyperframes.md`, `.agents/skills/hyperframes/SKILL.reference.md`, and `.agents/skills/hyperframes-cli/SKILL.reference.md`. Call `video_compose` with the edit_decisions unchanged — it will delegate to `hyperframes_compose`, which materializes a workspace under `projects/<name>/hyperframes/`, runs `lint → validate → render`, and returns the MP4. Both lint AND validate must pass before render; contrast can be deferred during iteration but not for final delivery.\n"
+    ]
+  }
+]

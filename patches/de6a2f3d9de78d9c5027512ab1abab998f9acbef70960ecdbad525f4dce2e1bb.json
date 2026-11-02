@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Writing Plans\"\n",
+      "  short_description: \"Turn specs into detailed multi-step implementation plans\"\n"
+    ]
+  }
+]

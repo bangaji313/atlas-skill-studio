@@ -1,0 +1,86 @@
+[
+  {
+    "start": 85,
+    "end": 90,
+    "lines": [
+      "| **v2.1** | Environment Pipeline | Build scenes, not just objects | Buildings · rooms · streets · trees & vegetation · terrain-aware generation · multi-object reconstruction |\n",
+      "| **v2.2** | Game Pipeline | Game-ready assets | Unity exporter · Unreal exporter · Blender bridge · FBX / OBJ / glTF improvements · LOD generation · collision mesh generation |\n",
+      "| **v2.3** | Animation Pipeline | Move assets into production | Auto rigging · auto skin weights · Mixamo compatibility · facial rig · lip-sync preparation · animation-ready exports |\n",
+      "| **v2.4** | AI Studio | Cut the manual work | Web UI · drag & drop workflow · batch processing · visual prompt builder · project management · cloud rendering · public showcase integration |\n"
+    ]
+  },
+  {
+    "start": 96,
+    "end": 101,
+    "lines": [
+      "- **v2.1 — The Environment Update**\n",
+      "- **v2.2 — The Game Pipeline Update**\n",
+      "- **v2.3 — The Animation Update**\n",
+      "- **v2.4 — The AI Studio Update**\n"
+    ]
+  },
+  {
+    "start": 156,
+    "end": 176,
+    "lines": [
+      "### v2.1 — The Environment Update\n"
+    ]
+  },
+  {
+    "start": 183,
+    "end": 184,
+    "lines": [
+      "### v2.2 — The Game Pipeline Update\n"
+    ]
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "lines": [
+      "### v2.3 — The Animation Update\n"
+    ]
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "lines": [
+      "### v2.4 — The AI Studio Update\n"
+    ]
+  },
+  {
+    "start": 215,
+    "end": 216,
+    "lines": [
+      "**Phase 1.5 (v2.0) — Ecosystem.** The plugin architecture shipped ahead of schedule: domains,\n"
+    ]
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "lines": [
+      "**Phase 2 (v2.1–v2.2) — Worlds.** Build environments and game-ready content: buildings, vegetation,\n"
+    ]
+  },
+  {
+    "start": 221,
+    "end": 222,
+    "lines": [
+      "**Phase 3 (v2.3–v2.4) — Production.** Turn generated assets into production-ready content: rigging,\n"
+    ]
+  },
+  {
+    "start": 237,
+    "end": 239,
+    "lines": [
+      "| G1 | SkinnedMesh + Bones + Morph targets (organic deform, facial expression) | Roadmap **v2.3 — Animation** (rig-ready topology prepared in v1.5) | deferred |\n",
+      "| G2 | glTF / GLB export + AnimationMixer (engine portability) | Roadmap **v2.2 — Game Pipeline** | deferred |\n"
+    ]
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "lines": [
+      "| G4 | UV unwrapping / atlas, normal+AO baking (high→low), LOD, BVH; procedural-UV seams stretch at primitive joins | Partial today (procedural cyl/triplanar UV + height→normal). Baking and LOD land in **v2.2** | med |\n"
+    ]
+  }
+]

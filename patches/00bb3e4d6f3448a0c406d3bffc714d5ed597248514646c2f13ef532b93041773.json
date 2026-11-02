@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Using Git Worktrees\"\n",
+      "  short_description: \"Create isolated git worktrees for parallel feature work\"\n"
+    ]
+  }
+]

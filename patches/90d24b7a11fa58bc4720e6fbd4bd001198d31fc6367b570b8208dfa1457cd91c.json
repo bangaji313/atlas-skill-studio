@@ -1,0 +1,52 @@
+[
+  {
+    "start": 22,
+    "end": 23,
+    "lines": [
+      "See `sub-skills/rules-explainer.md` for per-rule justification, defenses, and citations, and `../../references/tier-rationale.md` §V3 for the evidence.\n"
+    ]
+  },
+  {
+    "start": 77,
+    "end": 78,
+    "lines": [
+      "The scrub pass applies tiered catalogs to delete or replace AI tells. The unit of judgement is the **paragraph, not the word**: count markers per paragraph, rewrite the paragraph at 3+, leave a single marker alone unless it is a reveal bridge or forensic leakage. Full regex source, replacement maps, and detection functions live in `../../references/scrub-rules.md`; load that file when actually executing the scrub.\n"
+    ]
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "lines": [
+      "For per-rule justification and famous human defenders, see `sub-skills/rules-explainer.md` (and the rule index at `../../references/rules-explainer.md`). For the V3 evidence and confidence labels, see `../../references/tier-rationale.md` §V3.\n"
+    ]
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "lines": [
+      "For emoji-pattern detection (lightbulb, rocket, sparkles signature), see `sub-skills/emoji-detector.md` and the per-emoji frequency table at `../../references/emoji-patterns.md`.\n"
+    ]
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "lines": [
+      "See `../../references/examples.md` for worked examples.\n"
+    ]
+  },
+  {
+    "start": 153,
+    "end": 162,
+    "lines": [
+      "- `../../references/scrub-rules.md` — full regex patterns by tier, density scoring, rhythm rules\n",
+      "- `../../references/voice-fingerprint.md` — how to preserve user voice while scrubbing\n",
+      "- `../../references/tier-rationale.md` — long-form per-rule justification plus the V3 evidence section\n",
+      "- `../../references/rules-explainer.md` — machine-readable index of every rule with citations\n",
+      "- `../../references/emoji-patterns.md` — AI-correlated emoji frequency table\n",
+      "- `../../references/detector-list.md` — supported AI detectors with API endpoints and accuracy notes\n",
+      "- `../../references/audit-ai-tells.md` — blacklist + regex used in audit mode\n",
+      "- `../../references/audit-checklist.md` — 20-point pre-publish checklist with thresholds\n",
+      "- `../../references/audit-examples.md` — worked audit examples\n"
+    ]
+  }
+]

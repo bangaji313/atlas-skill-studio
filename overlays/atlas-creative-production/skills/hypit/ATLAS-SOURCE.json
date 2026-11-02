@@ -1,0 +1,10 @@
+{
+  "repository": "hypit-ai/hypit",
+  "commit": "0762c6be56c0af43fff3cdbdb285e21414dd249b",
+  "license": "Modified Apache-2.0; see LICENSE",
+  "upstream_path": "skills/hypit",
+  "local_changes": [
+    "Quoted the upstream description for portable YAML parsing."
+  ],
+  "verification": "See hypit-audio-result.json in the installation report; no paid provider requests were made."
+}

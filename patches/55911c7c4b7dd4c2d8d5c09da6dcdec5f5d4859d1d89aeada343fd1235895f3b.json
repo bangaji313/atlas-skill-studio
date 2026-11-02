@@ -1,0 +1,9 @@
+[
+  {
+    "start": 27,
+    "end": 28,
+    "lines": [
+      "For `synthetic_terminal`, also read `.agents/skills/synthetic-screen-recording/SKILL.reference.md` before proceeding — it encodes the pacing rule that killed an earlier showcase render (commands burned through in 40% of scene time, then terminal froze for the remaining 60%).\n"
+    ]
+  }
+]

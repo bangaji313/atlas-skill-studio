@@ -1,0 +1,24 @@
+[
+  {
+    "start": 61,
+    "end": 70,
+    "lines": [
+      "| Kinetic typography, HTML/GSAP-native motion, product promo, launch reel | **hyperframes** | `skills/core/hyperframes.md` + `.agents/skills/hyperframes/SKILL.reference.md` (router) → `hyperframes-core` (contract), `hyperframes-creative` (palette/type), `hyperframes-animation` (motion) |\n",
+      "| Website → video, UI-driven composition | **hyperframes** | `.agents/skills/website-to-video/SKILL.reference.md` (renamed from website-to-hyperframes in 0.7) |\n",
+      "| Registry block needed (data-chart, grain-overlay, shader transitions, etc.) | **hyperframes** | `.agents/skills/hyperframes-registry/SKILL.reference.md` |\n",
+      "| Editable browser-native 3D terrain/world and free-viewpoint fly-through | **hyperframes** | `skills/creative/3d-world-generation.md` + `.agents/skills/threejs-world-generation/SKILL.reference.md` |\n",
+      "| Reference-grade 3D world film rendered in Blender | **ffmpeg packaging of Blender frames** | `skills/creative/3d-world-generation.md` + `.agents/skills/3d-asset-generation/SKILL.reference.md` |\n",
+      "| Beat-synced music video (audio drives scene timing) | **hyperframes** | `.agents/skills/music-to-video/SKILL.reference.md` — uses `hyperframes beats` to detect drops, lays out frames on the beat grid |\n",
+      "| Porting an existing Remotion composition to HyperFrames | **hyperframes** | `.agents/skills/remotion-to-hyperframes/SKILL.reference.md` — migration guidance, ONLY for explicit port requests |\n",
+      "| BGM / SFX / image / icon resolution (any pipeline, any runtime) | n/a | `.agents/skills/media-use/SKILL.reference.md` — `resolve` verb against project cache + global cache + HeyGen catalog |\n",
+      "| Short design-led motion graphic (lower-third, stat reveal, logo sting, headline) | **hyperframes** | `.agents/skills/motion-graphics/SKILL.reference.md` |\n"
+    ]
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "lines": [
+      "For the full breakdown, read `.agents/skills/gsap-react/SKILL.reference.md`.\n"
+    ]
+  }
+]

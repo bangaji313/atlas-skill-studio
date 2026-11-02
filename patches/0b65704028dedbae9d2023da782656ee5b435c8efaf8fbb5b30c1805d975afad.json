@@ -1,0 +1,17 @@
+[
+  {
+    "start": 119,
+    "end": 120,
+    "lines": [
+      "See `../../references/example-plan-week.md` for a filled-in 7-day plan.\n"
+    ]
+  },
+  {
+    "start": 124,
+    "end": 126,
+    "lines": [
+      "- `../../references/example-plan-week.md` — worked example\n",
+      "- `../../references/pillars-framework.md` — the 3-pillar discipline explained\n"
+    ]
+  }
+]

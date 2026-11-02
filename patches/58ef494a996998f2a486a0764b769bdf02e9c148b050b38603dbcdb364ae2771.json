@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Subagent-Driven Development\"\n",
+      "  short_description: \"Execute implementation plans with staged subagent reviews\"\n"
+    ]
+  }
+]

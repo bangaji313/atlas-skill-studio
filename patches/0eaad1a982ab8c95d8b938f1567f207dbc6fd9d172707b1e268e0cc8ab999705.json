@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Verification Before Completion\"\n",
+      "  short_description: \"Verify claims with commands and output before declaring success\"\n"
+    ]
+  }
+]

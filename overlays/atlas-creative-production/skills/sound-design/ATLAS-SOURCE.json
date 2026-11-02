@@ -1,0 +1,11 @@
+{
+  "repository": "salomonMuriel/media-production-skills",
+  "commit": "0efd303cbf5331d02cad90d548b3c4db06089c4b",
+  "license": "MIT",
+  "upstream_path": "skills/sound-design",
+  "local_changes": [
+    "Quoted the upstream description for portable YAML parsing.",
+    "Changed standard ~/.claude/skills examples and fallback paths to ~/.codex/skills."
+  ],
+  "verification": "See hypit-audio-result.json in the installation report; no paid provider requests were made."
+}

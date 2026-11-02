@@ -1,0 +1,11 @@
+[
+  {
+    "start": 2,
+    "end": 5,
+    "lines": [
+      "Remotion API truth: `~/.codex/skills/remotion-captions/` (transcribe, display, import SRT),\n",
+      "`~/.codex/skills/remotion-markup/video-editing.md`, `embedding-videos.md`, `silence-detection.md`, `cropping.md`,\n",
+      "`~/.codex/skills/remotion-render/transparent-videos.md`. Use `<Video>` from `@remotion/media` (it falls back to\n"
+    ]
+  }
+]

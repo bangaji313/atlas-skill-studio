@@ -1,0 +1,25 @@
+[
+  {
+    "start": 5,
+    "end": 5,
+    "lines": [
+      "Atlas packaging: read [host compatibility](../../FRAMEWORK-RUNTIME.md) before using tools or native-plugin configuration from this guide.\n",
+      "\n",
+      "\n"
+    ]
+  },
+  {
+    "start": 31,
+    "end": 32,
+    "lines": [
+      "4. Invoke the atlas-engineering-tools:writing-plans skill.\n"
+    ]
+  },
+  {
+    "start": 259,
+    "end": 260,
+    "lines": [
+      "atlas-engineering-tools:writing-plans and no other skill.\n"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "start": 2,
+    "end": 3,
+    "lines": [
+      "Part of atlas-engineering-tools:writing-skills: the SKILL.md template and how to name,\n"
+    ]
+  },
+  {
+    "start": 195,
+    "end": 197,
+    "lines": [
+      "- ✅ Good: `**REQUIRED SUB-SKILL:** Use atlas-engineering-tools:test-driven-development`\n",
+      "- ✅ Good: `**REQUIRED BACKGROUND:** You MUST understand atlas-engineering-tools:systematic-debugging`\n"
+    ]
+  }
+]

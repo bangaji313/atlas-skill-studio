@@ -1,0 +1,9 @@
+[
+  {
+    "start": 22,
+    "end": 23,
+    "lines": [
+      "out=$(\"${BASH:-bash}\" \"$sdd/task-brief\" \"$plan\" \"$n\")\n"
+    ]
+  }
+]

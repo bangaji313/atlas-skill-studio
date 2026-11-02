@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Dispatching Parallel Agents\"\n",
+      "  short_description: \"Split independent work across parallel agents\"\n"
+    ]
+  }
+]

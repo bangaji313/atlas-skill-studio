@@ -1,0 +1,9 @@
+[
+  {
+    "start": 2,
+    "end": 3,
+    "lines": [
+      "description: \"Use p5.js/canvas for local procedural character effects: particles, weather, squash/stretch, walk cycles, and environmental motion.\"\n"
+    ]
+  }
+]

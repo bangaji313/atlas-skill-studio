@@ -1,0 +1,11 @@
+[
+  {
+    "start": 13,
+    "end": 13,
+    "lines": [
+      "\n",
+      "> Local wiring support: for connector/pin/cable diagrams, prefer `wireviz -f ps <file.yml>` when WireViz and Graphviz are installed. This produces local PNG/SVG files without a remote renderer. On the configured Windows desktop, Graphviz is at `C:/Program Files/Graphviz/bin`; probe PATH before rendering. On other hosts, probe dependencies rather than assuming they exist. The Kroki fallback below sends the diagram source to its server when the URL is fetched.\n",
+      "\n"
+    ]
+  }
+]

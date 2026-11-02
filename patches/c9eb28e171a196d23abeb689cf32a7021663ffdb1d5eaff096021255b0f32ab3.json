@@ -1,0 +1,16 @@
+[
+  {
+    "start": 16,
+    "end": 17,
+    "lines": [
+      "| | `../../references/voice-profile.md` | `../../references/story-bank.md` |\n"
+    ]
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "lines": [
+      "- `../../references/question-bank.md` — questions that reliably produce usable material,\n"
+    ]
+  }
+]

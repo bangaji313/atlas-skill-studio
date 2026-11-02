@@ -1,0 +1,11 @@
+[
+  {
+    "start": 4,
+    "end": 4,
+    "lines": [
+      "\n",
+      "> Installed library: this distribution includes `library/` beside this SKILL.md, containing core tools and all 66 released style guides plus the upstream template. Resolve its absolute directory from the loaded skill path. A newly built plugin does not include dependency environments. Resolve the bundled library from this skill directory and check its dependencies. Otherwise verify and set up the bundled library before rendering; on Windows use native npm/Python dependency setup rather than assuming Unix `setup.sh` works. On another installation, first check dependencies; install the bundled package.json and requirements.txt only if missing. The optional voice/music/model tiers remain optional. For upstream shell-only tools on Windows, use an available Git Bash and Windows-compatible paths.\n",
+      "\n"
+    ]
+  }
+]

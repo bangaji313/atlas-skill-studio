@@ -1,0 +1,30 @@
+[
+  {
+    "start": 2,
+    "end": 3,
+    "lines": [
+      "description: \"Casting, directing, recording and checking AI voices (ElevenLabs first; OpenAI, Gemini, Cartesia, Hume, Fish as alternatives) for any product: video voiceover, ads, explainers, app audio such as word or flashcard pronunciations, onboarding prompts, podcasts and characters. Matches voice, model, settings, tags and script writing to the feeling wanted (warm, trustworthy, hype, calm, premium, playful and more), keeps a specific language and regional accent, screens voices and takes for static, verifies takes without ears (noise floor, loudness, speech-to-text with repeats), runs blind casting tests, and builds loudness-matched files with word timings. Use it whenever the user wants to generate, choose, direct, fix or evaluate a synthetic voice, mentions ElevenLabs, TTS, voiceover, narration, accents or a voice that sounds breathy, robotic, noisy or foreign, even if they don't say \\\"voice direction\\\". The video-director skill calls it at its voice gate.\"\n"
+    ]
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "lines": [
+      "**Paths:** scripts live in this skill's `scripts/` folder, under the base directory shown when the skill loads (`~/.codex/skills/voice-direction/` for a standard install; a plugin install puts it elsewhere). The other skills of this suite sit next to it as sibling folders. Paths written as `~/.codex/skills/...` below assume the standard install.\n"
+    ]
+  },
+  {
+    "start": 67,
+    "end": 68,
+    "lines": [
+      "Path: `~/.codex/skills/voice-direction/scripts/`.\n"
+    ]
+  },
+  {
+    "start": 93,
+    "end": 94,
+    "lines": [
+      "- Pairwise and blind judgements with an audio model: `~/.codex/skills/video-director/scripts/media_judge.py vo-take |\n"
+    ]
+  }
+]

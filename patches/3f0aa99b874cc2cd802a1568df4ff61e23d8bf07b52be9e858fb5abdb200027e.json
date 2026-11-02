@@ -1,0 +1,9 @@
+[
+  {
+    "start": 32,
+    "end": 33,
+    "lines": [
+      "Pass `--fps` to `stills.py` and `strip.sh` when the composition isn't 30 fps. `$SD` is `~/.codex/skills/sound-design/scripts`. Full flags: `scripts/README.md`.\n"
+    ]
+  }
+]

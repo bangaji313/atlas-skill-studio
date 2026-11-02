@@ -1,0 +1,9 @@
+[
+  {
+    "start": 56,
+    "end": 57,
+    "lines": [
+      "- Audio QA runs `$AUDIO_QA` if set, else the sibling `sound-design/scripts/audio_qa.py`, else `~/.codex/skills/sound-design/scripts/audio_qa.py`.\n"
+    ]
+  }
+]

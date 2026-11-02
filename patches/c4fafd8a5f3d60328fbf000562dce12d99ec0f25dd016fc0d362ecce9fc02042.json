@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Writing Skills\"\n",
+      "  short_description: \"Create and verify skills before deployment\"\n"
+    ]
+  }
+]

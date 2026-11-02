@@ -1,0 +1,23 @@
+[
+  {
+    "start": 49,
+    "end": 50,
+    "lines": [
+      "Start: `cp -R ~/.codex/skills/video-director/assets/project-template <repo>/video && cd <repo>/video && pnpm install &&\n"
+    ]
+  },
+  {
+    "start": 55,
+    "end": 56,
+    "lines": [
+      "The generic scripts live in the skill (`~/.codex/skills/video-director/scripts/`) and are called from the project root;\n"
+    ]
+  },
+  {
+    "start": 139,
+    "end": 140,
+    "lines": [
+      "Skills live in `~/.codex/skills/`. Every file below (and every other Markdown file in the Remotion skills) is read in\n"
+    ]
+  }
+]

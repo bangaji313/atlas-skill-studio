@@ -1,0 +1,9 @@
+[
+  {
+    "start": 24,
+    "end": 25,
+    "lines": [
+      "dir=$(\"${BASH:-bash}\" \"$sdd/sdd-workspace\" \"$plan\")\n"
+    ]
+  }
+]

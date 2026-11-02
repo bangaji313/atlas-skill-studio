@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Diagnosing Superpowers\"\n",
+      "  short_description: \"Figure out what went wrong in a Superpowers session\"\n"
+    ]
+  }
+]

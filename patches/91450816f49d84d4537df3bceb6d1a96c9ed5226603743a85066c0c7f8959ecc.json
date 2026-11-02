@@ -1,0 +1,9 @@
+[
+  {
+    "start": 2,
+    "end": 3,
+    "lines": [
+      "description: \"Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, generating audio textures, producing ambient sounds, cinematic impacts, UI sounds, or any audio that isn't speech. Supports looping, duration control, and prompt influence tuning.\"\n"
+    ]
+  }
+]

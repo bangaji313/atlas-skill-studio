@@ -1,0 +1,23 @@
+[
+  {
+    "start": 39,
+    "end": 40,
+    "lines": [
+      "4. **Draft comment variants.** Pick 2-3 templates from `../../references/comment-templates.md` that fit the post's topic. Fill them with user-voice phrasing.\n"
+    ]
+  },
+  {
+    "start": 71,
+    "end": 72,
+    "lines": [
+      "## Templates (see `../../references/comment-templates.md` for full list)\n"
+    ]
+  },
+  {
+    "start": 103,
+    "end": 104,
+    "lines": [
+      "- `../../references/comment-templates.md` — the 7 templates with fill-in slots and real examples\n"
+    ]
+  }
+]

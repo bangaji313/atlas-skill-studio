@@ -1,0 +1,19 @@
+[
+  {
+    "start": 17,
+    "end": 28,
+    "lines": [
+      "| Any GSAP animation, starting from zero | [`gsap-core`](../gsap-core/SKILL.reference.md) |\n",
+      "| Multi-step sequence or choreography | [`gsap-timeline`](../gsap-timeline/SKILL.reference.md) |\n",
+      "| Per-word or per-character text animation | [`gsap-plugins`](../gsap-plugins/SKILL.reference.md) (SplitText section) |\n",
+      "| SVG shape morph | [`gsap-plugins`](../gsap-plugins/SKILL.reference.md) (MorphSVG section) |\n",
+      "| Object following a curved path | [`gsap-plugins`](../gsap-plugins/SKILL.reference.md) (MotionPath section) |\n",
+      "| Custom bezier easing | [`gsap-plugins`](../gsap-plugins/SKILL.reference.md) (CustomEase section) |\n",
+      "| GSAP inside a React component (Remotion) | [`gsap-react`](../gsap-react/SKILL.reference.md) |\n",
+      "| Math helpers (clamp, mapRange, interpolate, random) | [`gsap-utils`](../gsap-utils/SKILL.reference.md) |\n",
+      "| Debugging slow animations | [`gsap-performance`](../gsap-performance/SKILL.reference.md) |\n",
+      "| Scroll-driven animation (web preview only, not video render) | [`gsap-scrolltrigger`](../gsap-scrolltrigger/SKILL.reference.md) |\n",
+      "| Vue / Svelte / non-React host | [`gsap-frameworks`](../gsap-frameworks/SKILL.reference.md) |\n"
+    ]
+  }
+]

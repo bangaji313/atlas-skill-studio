@@ -1,0 +1,41 @@
+[
+  {
+    "start": 17,
+    "end": 20,
+    "lines": [
+      "Agent-agnostic: works under Claude Code, Codex, or OpenCode. Wherever this doc says \"agent\n",
+      "vision\" or \"agent browser tool\", use whatever the host provides — native image reading, a\n",
+      "browser MCP (playwright/chrome-devtools), the project preview, or a user-supplied screenshot.\n"
+    ]
+  },
+  {
+    "start": 27,
+    "end": 34,
+    "lines": [
+      "Keep one checkout of this repository and let every host enter it through a symlink, so Claude and\n",
+      "Codex execute the same code instead of drifting apart:\n",
+      "\n",
+      "```text\n",
+      "~/.claude/skills/img2threejs -> <your checkout>\n",
+      "~/.codex/skills/img2threejs  -> <your checkout>\n",
+      "```\n"
+    ]
+  },
+  {
+    "start": 40,
+    "end": 58,
+    "lines": []
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "lines": [
+      "  modules (`character`) and installed plugins (`cs2`, `animated-character` from plugin-character) register identically, and\n"
+    ]
+  },
+  {
+    "start": 400,
+    "end": 417,
+    "lines": []
+  }
+]

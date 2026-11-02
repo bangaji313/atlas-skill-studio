@@ -1,0 +1,10 @@
+[
+  {
+    "start": 1,
+    "end": 3,
+    "lines": [
+      "  display_name: \"Systematic Debugging\"\n",
+      "  short_description: \"Find root causes before attempting fixes\"\n"
+    ]
+  }
+]

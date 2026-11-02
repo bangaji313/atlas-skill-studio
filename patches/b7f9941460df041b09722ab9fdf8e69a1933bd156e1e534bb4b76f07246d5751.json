@@ -1,0 +1,9 @@
+[
+  {
+    "start": 12,
+    "end": 13,
+    "lines": [
+      "**REQUIRED BACKGROUND:** You MUST understand atlas-engineering-tools:test-driven-development before using this skill. That skill defines the fundamental RED-GREEN-REFACTOR cycle. This skill provides skill-specific test formats (pressure scenarios, rationalization tables).\n"
+    ]
+  }
+]
